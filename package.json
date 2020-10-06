@@ -1,0 +1,29 @@
+{
+  "name": "click-get",
+  "version": "0.0.1",
+  "description": "a simple web game, the purpose is getting money and by clicking doubling with items.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juni-dev/click-get.git"
+  },
+  "keywords": [
+    "click-get",
+    "webgame",
+    "game",
+    "getmoneybuyitems"
+  ],
+  "author": "Juni-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juni-dev/click-get/issues"
+  },
+  "homepage": "https://github.com/Juni-dev/click-get#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
